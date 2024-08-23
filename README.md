@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @aadithyaa9
-- 👀 I’m interested in cycling
-- 🌱 I’m currently learning full stack development
+ Hi, I’m @aadithyaa9 , a 2nd-year Btech CSE(IoT) student at Shiv Nadar University . Passionate in Data structures and loves learning new algorithms.I am into web development and intereseted in creating innovative projects.Let's connect and explore the possibilities together!
 
-
-<!---
-aadithyaa9/aadithyaa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Tech Stack 
+will be updated soon :)
