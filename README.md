@@ -64,8 +64,10 @@ I'm always looking to collaborate with other developers, share knowledge, and wo
 
 ---
 
-## 😎 Chill Guy Meme
 
-![Chill Guy Meme](https://media.giphy.com/media/3o7TKX9tBcjHHfJGoI/giphy.gif)
+
+<div style="float: left; margin-right: 20px;">
+    <img src="https://media.giphy.com/media/3o7TKX9tBcjHHfJGoI/giphy.gif" alt="Chill Guy Meme" width="200">
+</div>
 
 Because who doesn't love a bit of fun while coding? 😎
