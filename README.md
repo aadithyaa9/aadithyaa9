@@ -1,12 +1,12 @@
+## About Me
 - Hi, I’m Aadithyaa R
 - You can reach me out through aadiramki01@gmail.com
 - Budding SDE and I am open to technical Talks
 - I am intrested in building solutions for real world problems
 
 
-Skill Set
-
-## Programming Languages:   Python , Java , Javascript , Java , C , C++
+## Skill Set
+Programming Languages:   Python , Java , Javascript , Java , C , C++
 
   
   
