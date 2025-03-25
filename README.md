@@ -2,6 +2,8 @@
 - You can reach me out through aadiramki01@gmail.com
 - Budding SDE and I am open to technical Talks
 - I am intersted in building solutions for real world problems
+
+  
   
 <!---
 aadithyaa9/aadithyaa9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
