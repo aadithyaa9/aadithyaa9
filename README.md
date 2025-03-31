@@ -32,8 +32,7 @@ Feel free to connect with me to discuss anything tech-related or if you have an 
 ### Tools & Technologies
 - **Version Control**: Git, GitHub
 - **Frameworks**: React.js, Express.js 
-- **APIs**: REST,FAST
-
+- **APIs**: REST, FASTAPI
 
 ---
 
@@ -41,7 +40,7 @@ Feel free to connect with me to discuss anything tech-related or if you have an 
 
 I am passionate about contributing to open-source and personal projects that help solve real-world problems. Some of the projects I've worked on include:
   
-- **Project 1: Expense Tracker** - A personal finance tracker that allows users to manage their expenses and generate reports. Built with **Java** and **JDBC,SQLite** for data management.
+- **Project 1: Expense Tracker** - A personal finance tracker that allows users to manage their expenses and generate reports. Built with **Java** and **JDBC, SQLite** for data management.
 
 Feel free to check out my repositories for more details on these projects!
 
@@ -51,8 +50,7 @@ Feel free to check out my repositories for more details on these projects!
 
 I'm always looking to collaborate with other developers, share knowledge, and work on exciting projects. Let's connect!
 
-- **LinkedIn**: [Aadithyaa R LinkedIn](www.linkedin.com/in/aadithyaa-r-b7695b218)
-
+- **LinkedIn**: [Aadithyaa R LinkedIn](https://www.linkedin.com/in/aadithyaar)
 
 ---
 
@@ -64,10 +62,11 @@ I'm always looking to collaborate with other developers, share knowledge, and wo
 
 ---
 
+## 😎 My Vibe
 
+<p align="center">
+    <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/664/050/689.jpg" width="400" alt="Chill Guy Meme">
+</p>
 
-<div style="float: left; margin-right: 20px;">
-    <img src="https://media.giphy.com/media/3o7TKX9tBcjHHfJGoI/giphy.gif" alt="Chill Guy Meme" width="200">
-</div>
+---
 
-Because who doesn't love a bit of fun while coding? 😎
