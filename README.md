@@ -62,11 +62,5 @@ I'm always looking to collaborate with other developers, share knowledge, and wo
 
 ---
 
-## 😎 My Vibe
 
-<p align="center">
-    <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/664/050/689.jpg" width="400" alt="Chill Guy Meme">
-</p>
-
----
 
