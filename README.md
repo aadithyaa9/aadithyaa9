@@ -56,9 +56,7 @@ I'm always looking to collaborate with other developers, share knowledge, and wo
 
 ## 📊 Visitor Count
 
-<div>
-    <img style="display: block; margin: 0 auto;" src="https://profile-counter.glitch.me/aadithyaa9/count.svg" alt="Visitor Count">
-</div>
+![](https://komarev.com/ghpvc/?username=aadithyaa9&style=flat-square)
 
 ---
 
