@@ -54,6 +54,10 @@ I'm always looking to collaborate with other developers, share knowledge, and wo
 
 ---
 
+## My STATS -> JUST FOR ME -> NOT FOR YOU TO JUDGE
+
+![](https://ashutosh00710.github.io/github-readme-activity-graph/)
+
 ## 📊 Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=aadithyaa9&style=flat-square)
