@@ -1,68 +1,44 @@
-# 👋 Hello, I'm Aadithyaa R!
+# Hi there, I'm Aadithyaa R 
 
-I'm a **Budding Software Development Engineer (SDE)** with a passion for **problem-solving** and building impactful **real-world solutions**. I enjoy working on a wide range of technologies and am continuously expanding my skills to stay up-to-date with the ever-evolving tech landscape. I'm always open to **technical talks** and **collaborations** to learn from others and contribute to meaningful projects.
+Budding Software Development Engineer passionate about building distributed solutions.  Enjoys working across diverse technologies, continuously learning, and collaborating on meaningful projects. 
 
-Feel free to connect with me to discuss anything tech-related or if you have an interesting project in mind. 🚀
-
-📧 Reach out to me at: [aadiramki01@gmail.com](mailto:aadiramki01@gmail.com)
-
----
-
-## 🚀 What I Do
-
-- **Software Development**: I focus on building efficient, scalable, and maintainable software solutions.
-- **Problem Solving**: I thrive on tackling complex challenges, whether through algorithms or creating systems that address real-world issues.
-- **Continuous Learning**: I'm always looking for opportunities to learn new technologies, improve my coding practices, and grow as a developer.
+### About Me
+* Pursuing a B.Tech Computer Science (Internet of Things) at Shiv Nadar University. 
+* Player, Shiv Nadar University Table Tennis Team. 
+* Reach out to me: aadiramki01@gmail.com.
 
 ---
 
-## 💻 My Skill Set
-
-### Programming Languages
-- **Python**: Expertise in scripting, automation, and backend development.
-- **Java**: Proficient in object-oriented programming and building scalable applications.
-- **JavaScript**: Experience with both frontend (React.js) and backend (Node.js) development.
-- **C/C++**: Solid understanding of low-level programming and performance optimization.
-
-### Web Development
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, MySQL, PostgreSQL
-
-### Tools & Technologies
-- **Version Control**: Git, GitHub
-- **Frameworks**: React.js, Express.js 
-- **APIs**: REST, FASTAPI
+### Technical Skills
+* **Languages:** Python, Java, C, C++, JavaScript, TypeScript, Golang 
+* **Frameworks:** React.js, Next.js, Node.js, Express.js, Gin, EJS 
+* **Libraries:** Framer Motion, Shaden UI, Apache Guacamole, Tailwind CSS, DaisyUI, Zustand 
+* **Tools:** Git, VS Code, Docker, QEMU, Firebase 
+* **Databases:** MongoDB, PostgreSQL, Redis, Firestore, Prisma (ORM) 
+* **OS:** Linux, Windows 
 
 ---
 
-## 💡 Projects & Contributions
+### Featured Projects
 
-I am passionate about contributing to open-source and personal projects that help solve real-world problems. Some of the projects I've worked on include:
-  
-- **Project 1: Expense Tracker** - A personal finance tracker that allows users to manage their expenses and generate reports. Built with **Java** and **JDBC, SQLite** for data management.
+#### [QEMULAB - Virtual Network Topology Builder 
+* Engineered a browser-based virtualization lab orchestrating KVM-accelerated QEMU instances to simulate complex network topologies with real-time device interaction. 
+* Enabled clientless remote access by integrating Apache Guacamole with a custom PostgreSQL backend, delivering low-latency VNC/Telnet sessions directly within the web interface. 
+* Architected a custom networking layer using multicast sockets to simulate Layer 2 connectivity, allowing users to dynamically create isolated network segments.
 
-Feel free to check out my repositories for more details on these projects!
+#### Net Verse Labs - Educational Metaverse
+* Developed an immersive 2D virtual campus using Next.js 16 and TypeScript, featuring a custom game engine built with Framer Motion for smooth character interaction. 
+* Embedded Google Gemini AI to power intelligent NPC tutors and integrated Monaco Editor for real-time in-game coding exercises. 
+* Orchestrated real-time multiplayer states and Role-Based Access Control (RBAC) using Firebase, synchronizing user presence and distinct teacher/student dashboards. 
+
+#### ThinkBoard - Notes Web App
+* Built a full-stack note-taking app with React and Express-MongoDB, styling the interface with DaisyUI and Tailwind CSS. 
+* Incorporated Upstash Redis for API rate limiting to prevent abuse and ensure service stability.
+* Established secure CRUD operations with robust data validation and seamless note management functionality. 
 
 ---
 
-## 🌍 Let's Connect
-
-I'm always looking to collaborate with other developers, share knowledge, and work on exciting projects. Let's connect!
-
-- **LinkedIn**: [Aadithyaa R LinkedIn](https://www.linkedin.com/in/aadithyaar)
-
----
-
-## My STATS -> JUST FOR ME -> NOT FOR YOU TO JUDGE
-
-[![Aadithyaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Fujitsu11&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📊 Visitor Count
+### GitHub Stats
+[![Aadithyaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aadithyaa9&bg_color=000000&color=e7e7e7&line=e7e7e7&point=e7e7e7&area=true&hide_border=true)](https://github.com/aadithyaa9)
 
 ![](https://komarev.com/ghpvc/?username=aadithyaa9&style=flat-square)
-
----
-
-
-
