@@ -21,7 +21,7 @@ Budding Software Development Engineer passionate about building distributed solu
 
 ### Featured Projects
 
-#### [QEMULAB - Virtual Network Topology Builder 
+#### QEMULAB - Virtual Network Topology Builder 
 * Engineered a browser-based virtualization lab orchestrating KVM-accelerated QEMU instances to simulate complex network topologies with real-time device interaction. 
 * Enabled clientless remote access by integrating Apache Guacamole with a custom PostgreSQL backend, delivering low-latency VNC/Telnet sessions directly within the web interface. 
 * Architected a custom networking layer using multicast sockets to simulate Layer 2 connectivity, allowing users to dynamically create isolated network segments.
